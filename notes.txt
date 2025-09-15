@@ -1,0 +1,8 @@
+avere game class che unisce board e engine, engine indipendente che prende in imput dati e restituisce output. Board prende stringa FEN e gestisce parte grafica, non sa a che gioco gioca. Game gestisce tutto tenendo insieme i due.
+Board ha riferimento a png chiamato pieces, che sanno come si muovono e non sanno null'altro.
+
+cose da fare:
+-drag and drop
+-next best move
+-disegnare le mosse possibili --> selezionare un pezzo da muovere
+
